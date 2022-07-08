@@ -177,9 +177,11 @@
   .sm\:w-600 {
     width: 600px;
   }
+
   .xs\:logo-text {
     display: block;
   }
+
   .sm\:py-28 {
     padding-top: 7rem;
     padding-bottom: 7rem;
@@ -190,10 +192,12 @@
   .md\:visible-menu {
     display: flex;
   }
+
   .md\:hidden-icon {
     display: none;
   }
 }
+
 .mt-100 {
   margin-top: 100px;
 }
